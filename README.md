@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">AI / GenAI Engineer • MSc Computer Science (Artificial Intelligence Specialization) @ University of Kent</h3>
+<h3 align="center">AI / GenAI Engineer • MSc Artificial Intelligence @ University of Kent</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Builder;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;From+Esports+to+AI+Engineering&center=true&width=600&height=45">
@@ -9,16 +9,10 @@
 
 ## 🚀 About Me
 
-Former competitive **esports athlete** turned **AIML Engineer**.  
+Former competitive esports athlete turned AI engineer.  
+I design and build **production-grade AI systems** with robust data workflows, intelligent automation, and scalable backend components.
 
-I build scalable AI systems combining:
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Backend Infrastructure
-- Intelligent Automation
-
-Focused on production-grade ML pipelines and LLM-powered systems.
+Passionate about real-world AI applications — not just research notebooks.
 
 ---
 
@@ -56,13 +50,11 @@ Focused on production-grade ML pipelines and LLM-powered systems.
 
 ### 🧠 AI Agent for Data Cleaning
 
-An AI-powered data quality system combining deterministic preprocessing with LLM-based reasoning to detect inconsistencies and generate intelligent cleaning recommendations.
-
-Built with:
-- Pandas-based rule engine
-- GPT-powered quality analysis
-- FastAPI backend APIs
-- Streamlit interactive frontend
+Production-oriented AI data quality platform with:
+- Rule-based preprocessing engine  
+- GPT-powered data quality analysis & recommendations  
+- FastAPI backend APIs  
+- Streamlit interactive UI
 
 🔗 https://github.com/karanexc/AI-Agent-For-Data-Cleaning-And-Preprocessing
 
@@ -88,4 +80,4 @@ https://www.linkedin.com/in/karan-exc/
 
 ---
 
-> Discipline from esports. Precision in AI.
+> **Discipline from esports. Precision in AI.**
