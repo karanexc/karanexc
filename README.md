@@ -1,102 +1,35 @@
-# 👋 Hi, I'm Karan Mhaswadkar
+# 👋 Hi, I'm Karan
 
 🎓 MSc Artificial Intelligence — University of Kent  
-🤖 AI / Data / GenAI Engineer  
+🤖 AI/ML & GenAI Engineer  
 📍 United Kingdom  
 
----
+Former competitive esports athlete turned AI engineer.  
+I now build production-style AI systems using:
 
-## 🚀 About Me
-
-I design and build **end-to-end AI systems** that combine:
-
-- Machine Learning pipelines
-- Data Engineering workflows
-- FastAPI production backends
-- Streamlit interactive frontends
-- LLM-powered AI agents
-- PostgreSQL database integration
-
-I focus on building **production-style AI systems**, not just notebooks.
-
-My goal: Build scalable, intelligent systems that solve real-world data problems.
+Python • FastAPI • Databases • LLMs • Streamlit • AWS
 
 ---
 
 ## 🔥 Featured Project
 
-### 🧠 AI Agent for Data Cleaning & Preprocessing
+### 🧠 AI Agent for Data Cleaning
+Full-stack AI data quality platform with:
+- Rule-based cleaning engine
+- GPT-powered anomaly detection
+- FastAPI backend
+- Streamlit frontend
 
-An AI-powered full-stack data quality platform that:
-
-- Cleans structural data issues automatically
-- Detects semantic anomalies using GPT
-- Works with CSV, Excel, Database & API data
-- Provides AI-based quality scoring and recommendations
-
-**Tech Stack:**
-- FastAPI
-- Streamlit
-- Pandas
-- OpenAI GPT
-- PostgreSQL
-
-🔗 Repository:  
-https://github.com/karanexc/AI-Agent-For-Data-Cleaning-And-Preprocessing
+🔗 https://github.com/karanexc/AI-Agent-For-Data-Cleaning-And-Preprocessing
 
 ---
 
-## 🛠 Technical Stack
-
-### 💻 Languages
-Python | SQL
-
-### 🧠 AI / Machine Learning
-Scikit-learn | NLP | LLMs | LangChain | Vector Databases | Feature Engineering
-
-### ⚙ Backend Development
-FastAPI | REST APIs | Async Processing
-
-### 🗄 Data Engineering
-Pandas | PostgreSQL | Data Cleaning Pipelines | Data Validation
-
-### 🔧 Tools & Workflow
-Git | GitHub | Jupyter | VS Code | Virtual Environments
+## 🌱 Currently Focused On
+AI Engineering • GenAI Systems • MLOps • AWS
 
 ---
 
-## 📊 GitHub Stats
-
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanexc&show_icons=true&theme=tokyonight)
-
----
-
-## 🌱 Currently Working On
-
-- AI-powered Data Quality Automation
-- GenAI system design & LLM integrations
-- MLOps foundations
-- AWS Solutions Architect Certification
-
----
-
-## 🎯 Career Focus
-
-I’m actively building expertise in:
-
-- AI Engineering
-- Data Science
-- LLM-based Systems
-- Production ML Pipelines
-- Scalable Backend Architecture
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:  
+📫 LinkedIn:  
 https://www.linkedin.com/in/karan-exc/
 
----
-
-> “Build systems. Not scripts.”
+> Discipline from esports. Precision in AI.
