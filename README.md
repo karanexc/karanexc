@@ -2,27 +2,46 @@
 <h3 align="center">AI / GenAI Engineer • MSc Artificial Intelligence @ University of Kent</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Systems;FastAPI+%2B+LLMs+%2B+PostgreSQL;From+Esports+to+AI+Engineering&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-green">
-  <img src="https://img.shields.io/badge/LLMs-GenAI-orange">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue">
-  <img src="https://img.shields.io/badge/AWS-Cloud-yellow">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Builder;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;From+Esports+to+AI+Engineering&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Former competitive esports athlete turned AI systems engineer.  
-I now build production-style AI systems combining:
+Former competitive esports athlete turned AI engineer.  
+I build scalable AI systems combining machine learning, generative AI, and modern backend infrastructure.
 
-Python • FastAPI • Databases • LLMs • Streamlit • AWS
+Focused on intelligent automation, production-grade ML pipelines, and LLM-powered systems.
 
-I focus on scalable backend architecture, data engineering, and intelligent automation.
+---
+
+# 🧠 Core Skills
+
+## 💻 Technical Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-orange">
+  <img src="https://img.shields.io/badge/Deep%20Learning-DL-red">
+  <img src="https://img.shields.io/badge/Computer%20Vision-CV-purple">
+  <img src="https://img.shields.io/badge/NLP-Text%20AI-blueviolet">
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-critical">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Analytics-yellow">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Insights-teal">
+  <img src="https://img.shields.io/badge/SQL-Database-lightgrey">
+</p>
+
+## ⚙ Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-DeepLearning-orange">
+  <img src="https://img.shields.io/badge/Keras-Neural%20Networks-red">
+  <img src="https://img.shields.io/badge/LangGraph-Agents-blue">
+  <img src="https://img.shields.io/badge/Vector%20DB-Embeddings-purple">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green">
+  <img src="https://img.shields.io/badge/AWS-Cloud-yellow">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black">
+</p>
 
 ---
 
@@ -30,19 +49,9 @@ I focus on scalable backend architecture, data engineering, and intelligent auto
 
 ### 🧠 AI Agent for Data Cleaning
 
-Full-stack AI data quality platform with:
-- Rule-based cleaning engine
-- GPT-powered anomaly detection
-- FastAPI backend
-- Streamlit frontend
+Full-stack AI data quality platform integrating rule-based preprocessing and GPT-powered analysis.
 
 🔗 https://github.com/karanexc/AI-Agent-For-Data-Cleaning-And-Preprocessing
-
----
-
-## 🌱 Currently Focused On
-
-AI Engineering • GenAI Systems • MLOps • AWS Solutions Architect
 
 ---
 
@@ -50,10 +59,6 @@ AI Engineering • GenAI Systems • MLOps • AWS Solutions Architect
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karanexc&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanexc&theme=tokyonight" />
 </p>
 
 ---
