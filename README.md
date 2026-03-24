@@ -46,20 +46,6 @@ Passionate about real-world AI applications — not just research notebooks.
 
 ---
 
-## 🔥 Latest Project
-
-### 🧠 AI Agent for Data Cleaning
-
-Production-oriented AI data quality platform with:
-- Rule-based preprocessing engine  
-- GPT-powered data quality analysis & recommendations  
-- FastAPI backend APIs  
-- Streamlit interactive UI
-
-🔗 https://github.com/karanexc/AI-Agent-For-Data-Cleaning-And-Preprocessing
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
